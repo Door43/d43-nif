@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nif:home|Door43 (nif)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nif|d43-nif repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nif/archive/master.zip|d43-nif.zip]]
+
+**Recent Changes**
+{{changes>ns = nif}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nif|Ethnologue data]]
+
